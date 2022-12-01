@@ -65,8 +65,8 @@
 # define MINIMAP_SIZE 32
 
 /* Window dimensions */
-# define WIN_HEIGHT	1200
-# define WIN_WIDTH	1600
+# define WIN_HEIGHT	500
+# define WIN_WIDTH	800
 
 /* Player constants */
 # define LEFT		-1
